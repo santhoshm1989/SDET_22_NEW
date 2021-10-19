@@ -8,13 +8,18 @@ public class ContactTest {
 	public void creatContact(){
 		
 		System.out.println("Execute createcontact");
-		
-	}
+		}
 
 	@Test
 	public void editContTest(){
 		
+		System.out.println("Execute editcontact");		
+	}
+	@Test
+	public void deletContTest(){
+		
 		System.out.println("Execute editcontact");
 		
 	}
+	
 }
